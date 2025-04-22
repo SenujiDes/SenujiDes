@@ -1,3 +1,14 @@
+📊 My Coding Journey
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SenujiDes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=15&custom_title=Senuji's%20Contribution%20Summary" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenujiDes&theme=radical&hide_border=true&background=0D1117&stroke=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&border_radius=15" width="49%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenujiDes&theme=radical&hide_border=true&bg_color=0D1117&border_radius=15&layout=donut-vertical&langs_count=6" width="35%" />
+</div>
+<br>
+
 
 <h1 align="center">✨ Senuji De Silva ✨</h1>
 
