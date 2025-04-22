@@ -1,14 +1,16 @@
-<h1 align="center">✨ Senuji De Silva ✨</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Senuji%20De%20Silva&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Building%20Digital%20Experiences%20That%20Matter&descAlignY=55&descSize=15" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Web+Developer+%26+Designer;AI+and+ML+Enthusiast;Public+Speaker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Web+Developer+%26+Designer;AI+and+ML+Enthusiast;Public+Speaker;Next.js+%26+React+Developer;Flask+Enthusiast" alt="Typing SVG" />
 </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=senujides&label=Profile%20views&color=6A5ACD&style=for-the-badge" alt="senujides" />
 </div>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY3bjhvenk2ZDBoN3VmZnl3NDBuNWcyZjZhcDU5dzlzMmh4Z280ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+
 
 ## 👩‍💻 About Me
 
@@ -21,19 +23,21 @@
 
 <br>
 
-## 🛠️ Technologies & Tools
+## 🛠️ My Digital Arsenal
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -47,26 +51,33 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SenujiDes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SenujiDes&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000" />
+  <a href="https://github.com/SenujiDes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SenujiDes&show_icons=true&theme=radical&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Journey" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SenujiDes&theme=radical&background=0,000000,130F40&ring=7A7ADB&fire=BC8F8F&currStreakLabel=D3D3D3&sideLabels=7A7ADB&hide_border=true" />
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenujiDes&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
+  <p align="center"><strong>✨ My Professional Toolkit ✨</strong></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenujiDes&langs_count=6&theme=radical&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&layout=compact&card_width=500" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SenujiDes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SenujiDes&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <br><br>
+  <p align="center"><strong>🏆 These trophies represent milestones in my coding journey - each one a testament to growth and dedication 🏆</strong></p>
 </div>
 
 <br>
 
-## 🌈 Contribution Graph
+## 🌈 Contribution Galaxy
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenujiDes&bg_color=0D1117&color=5BCDEC&line=6A5ACD&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenujiDes&bg_color=000000&color=7A7ADB&line=BC8F8F&point=FFFFFF&hide_border=true&custom_title=My%20Coding%20Universe%20-%20Each%20Contribution%20a%20Star" />
 </div>
 
 <br>
@@ -77,10 +88,10 @@
   <a href="https://linkedin.com/in/senujidesilva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/senujy.h" target="_blank">
+  <a href="https://www.instagram.com/notintoyoutho/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:senujihasara2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -88,5 +99,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=20&fontAlignY=80" />
 </div>
