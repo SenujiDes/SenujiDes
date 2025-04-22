@@ -1,3 +1,15 @@
+📊 My Coding Journey
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=SenujiDes&theme=tokyonight&bg_color=0D1117" width="100%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SenujiDes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</div>
+<br>
+
+
+
 <h1 align="center">✨ Senuji De Silva ✨</h1>
 
 <p align="center">
