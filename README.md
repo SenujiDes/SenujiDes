@@ -1,330 +1,221 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=40&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=%E2%9C%A8+Senuji+De+Silva+%E2%9C%A8" alt="Typing SVG" />
-</h1>
+# <div align="center">👋 Hello World, I'm Senuji De Silva</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Web+Developer+%26+Designer;AI+and+ML+Enthusiast;Public+Speaker" alt="Typing SVG" />
-</div>
-
-<!-- 3D Profile Badge Section -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Welcome+to+my+3D+Digital+World!" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=senujides&label=Profile%20views&color=6A5ACD&style=for-the-badge" alt="senujides" />
   
-  <a href="https://github.com/SenujiDes">
-    <img alt="GitHub Star" src="https://img.shields.io/github/stars/SenujiDes?affiliations=OWNER&color=6A5ACD&style=for-the-badge&logo=github">
-  </a>
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Software%20Engineer&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20innovative%20solutions%20with%20passion&descAlignY=60&descAlign=50)
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+Student;Web+Developer;Machine+Learning+Enthusiast;UI/UX+Designer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- 3D Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Full%20Stack%20Developer&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,12,19,20,21" width="100%" />
+  <img src="https://img.shields.io/badge/Focus-Web_Development-3498db?style=for-the-badge&logo=web&logoColor=white" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Studies-Software_Engineering-e74c3c?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Loves-Problem_Solving-2ecc71?style=for-the-badge&logo=brain&logoColor=white" alt="Problem Solving" />
+</div>
+
+## <div align="center">💫 About Me</div>
+
+I'm a driven Software Engineering undergraduate at Informatics Institute of Technology (IIT) with expertise in web development, machine learning, and design. I'm passionate about creating impactful solutions that make a difference.
+
+- 🔭 I'm currently working on **immersive 3D web experiences**
+- 🌱 Learning **Next.js, Three.js, and advanced ML techniques**
+- 👯 Looking to collaborate on **innovative projects that challenge the status quo**
+- 💬 Ask me about **React, Spring Boot, or anything web development**
+- 📫 Reach me at: **senujihasara2003@gmail.com**
+
+<br>
+
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
 
 <br>
 
-<!-- 3D animated Tech Stack Grid -->
+## <div align="center">🛠️ My Tech Stack</div>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,mysql,python,flask,java,git,figma&perline=5&theme=dark" />
+  
+  ### Languages
+  
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  </p>
+  
+  ### Frontend
+  
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  </p>
+  
+  ### Backend
+  
+  <p>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  </p>
+  
+  ### Databases
+  
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </p>
+  
+  ### Tools & Others
+  
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </p>
 </div>
 
 <br>
 
-<!-- 3D About Me Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:9370DB&height=2&section=header&%20render&fontSize=90" width="100" />
-  <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpmOXNmeGQzY24wZDVxbDJzcXp3eDRmNWJ2ZHFuNHYwZ2E1ZDk5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> 
-    About Me
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpmOXNmeGQzY24wZDVxbDJzcXp3eDRmNWJ2ZHFuNHYwZ2E1ZDk5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
-  </h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:6A5ACD&height=2&section=header&%20render&fontSize=90" width="100" />
-</div>
+## <div align="center">🌟 Featured Projects</div>
 
-<!-- 3D About Me Card -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width="120">
-</div>
 
-<table align="center">
+<table>
   <tr>
-    <td>
-      <ul>
-        <li>🎓 I'm pursuing a <b>BEng (Hons) in Software Engineering</b> at the University of Westminster</li>
-        <li>💼 Working part-time as a <b>web designer, developer, and software engineer</b></li>
-        <li>🔭 Passionate about <b>AI, deep learning, and machine learning</b></li>
-        <li>🌐 I love crafting <b>responsive, user-friendly websites</b> that are visually appealing</li>
-        <li>🎤 Dedicated member of <b>Toastmasters International</b>, serving as Vice President of Public Relations</li>
-        <li>🌱 Always exploring new technologies and refining my skills</li>
-      </ul>
+    <td width="50%">
+      <h3 align="center">Ceylon Mine Web App</h3>
+      <div align="center">
+        <a href="https://github.com/SenujiDes/ceylon-mine" target="_blank">
+          <img src="https://dummyimage.com/1000x500/000/fff&text=Ceylon+Mine+App" width="100%" alt="Ceylon Mine Web App"/>
+        </a>
+        <p>
+          <a href="https://github.com/SenujiDes/ceylon-mine" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=web&logoColor=white"/>
+          </a>
+        </p>
+        <p>Built a mining application in collaboration with GSMB to address and resolve issues in mining fields and construction sites using <strong>Next.js, Flask, PostgreSQL</strong></p>
+      </div>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <td width="50%">
+      <h3 align="center">3D Marketing Website</h3>
+      <div align="center">
+        <a href="https://github.com/SenujiDes/3d-marketing" target="_blank">
+          <img src="https://dummyimage.com/1000x500/000/fff&text=3D+Marketing+Site" width="100%" alt="3D Marketing Website"/>
+        </a>
+        <p>
+          <a href="https://github.com/SenujiDes/3d-marketing" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://naturescapes.lk" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=web&logoColor=white"/>
+          </a>
+        </p>
+        <p>Developed an immersive 3D marketing website using <strong>Next.js, Three.js, Tailwind CSS</strong> with stunning visual effects</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Real-time Ticket Booking System</h3>
+      <div align="center">
+        <a href="https://github.com/SenujiDes/ticket-booking" target="_blank">
+          <img src="https://dummyimage.com/1000x500/000/fff&text=Ticket+Booking+System" width="100%" alt="Ticket Booking System"/>
+        </a>
+        <p>
+          <a href="https://github.com/SenujiDes/ticket-booking" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=web&logoColor=white"/>
+          </a>
+        </p>
+        <p>Developed a scalable application for seamless event ticket booking using <strong>Spring Boot, React, MySQL</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">AI Chatbot</h3>
+      <div align="center">
+        <a href="https://github.com/SenujiDes/ai-chatbot" target="_blank">
+          <img src="https://dummyimage.com/1000x500/000/fff&text=AI+Chatbot" width="100%" alt="AI Chatbot"/>
+        </a>
+        <p>
+          <a href="https://github.com/SenujiDes/ai-chatbot" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=web&logoColor=white"/>
+          </a>
+        </p>
+        <p>Built an AI-powered chatbot with real-time NLP capabilities using <strong>Python, Llama3-8b, Streamlit</strong></p>
+      </div>
     </td>
   </tr>
 </table>
-
-<br>
-
-<!-- 3D Technologies Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:9370DB&height=2&section=header&%20render&fontSize=90" width="100" />
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
-    Technologies & Tools 
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-  </h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:6A5ACD&height=2&section=header&%20render&fontSize=90" width="100" />
-</div>
-
-<!-- 3D Tech Icons Display -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" width="40"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" width="40"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" width="40"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" width="40"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" width="40"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" width="40"  />
 </div>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#js">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#bootstrap5">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
-      <br>NextJS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
-    </td>
-  </tr>
-</table>
+## <div align="center">📈 GitHub Stats</div>
 
-<br>
-
-<!-- 3D Projects Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:9370DB&height=2&section=header&%20render&fontSize=90" width="100" />
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
-    Featured Projects 
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  </h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:6A5ACD&height=2&section=header&%20render&fontSize=90" width="100" />
-</div>
-
-<!-- 3D Project Cards -->
-<div align="center">
-  <a href="https://github.com/SenujiDes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenujiDes&repo=repo1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/SenujiDes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenujiDes&repo=repo2&theme=tokyonight" />
-  </a>
-</div>
-
-<br>
-
-<!-- 3D Stats Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:9370DB&height=2&section=header&%20render&fontSize=90" width="100" />
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
-    GitHub Stats 
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  </h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:6A5ACD&height=2&section=header&%20render&fontSize=90" width="100" />
-</div>
-
-<!-- 3D Stats Cards -->
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SenujiDes&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="450"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SenujiDes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="375" />
+<img src="https://github-readme-stats.vercel.app/api?username=SenujiDes&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Senuji De Silva's Github Stats" width="400px"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SenujiDes&stroke=ffffff&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakNum=ffffff&currStreakLabel=6C63FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400px"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SenujiDes&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenujiDes&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" width="400px"/>
 </div>
 
 <br>
 
-<!-- 3D GitHub Activity Graph -->
+## <div align="center">🏆 Achievements</div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:9370DB&height=2&section=header&%20render&fontSize=90" width="100" />
-  <h2>
-    <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-sun-glasses.gif?raw=true" width="30"> 
-    Contribution Activity 
-    <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-sun-glasses.gif?raw=true" width="30">
-  </h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:6A5ACD&height=2&section=header&%20render&fontSize=90" width="100" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SenujiDes&theme=discord&row=1&column=7&margin-w=15&margin-h=15" alt="SenujiDes" />
 </div>
 
 <br>
 
-<!-- 3D Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenujiDes&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=6A5ACD&point=FFFFFF" width="100%"/>
-</div>
+## <div align="center">📫 Connect With Me</div>
 
-<br>
-
-<!-- 3D isometric commit calendar -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gruselhaus/gruselhaus/master/metrics.svg" width="75%">
-</div>
-
-<br>
-
-<!-- 3D Connect Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:9370DB&height=2&section=header&%20render&fontSize=90" width="100" />
-  <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQzeXpnb2RtYWdxb294cTlveHUyODh5Z3BlMDFzN3ljNWozNDdkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-    Connect with me 
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQzeXpnb2RtYWdxb294cTlveHUyODh5Z3BlMDFzN3ljNWozNDdkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  </h2>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:6A5ACD&height=2&section=header&%20render&fontSize=90" width="100" />
-</div>
-
-<!-- 3D Social Media Buttons -->
 <div align="center">
   <a href="https://linkedin.com/in/senujidesilva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/notintoyoutho/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
   <a href="mailto:senujihasara2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
+  </a>
+  <a href="https://github.com/SenujiDes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub">
   </a>
 </div>
 
 <br>
 
-<!-- 3D Social Profiles -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/senujidesilva">
-          <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="80">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.instagram.com/notintoyoutho/">
-          <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="80">
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:senujihasara2003@gmail.com">
-          <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" width="80">
-        </a>
-      </td>
-    </tr>
-  </table>
+  
+  ![Snake animation](https://github.com/SenujiDes/SenujiDes/blob/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
 
-<br>
-
-<!-- 3D Snake animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 </div>
 
-<br>
-
-<!-- 3D Matrix animation -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%">
-</div>
-
-<br>
-
-<!-- 3D Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer&animation=fadeIn&fontColor=fff&fontSize=14&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
+  <img src="https://komarev.com/ghpvc/?username=SenujiDes&style=flat-square&color=6C63FF" alt="Profile views"/>
 </div>
