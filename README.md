@@ -132,11 +132,11 @@
 
 <br>
 
-<!-- 3D Contribution Calendar -->
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <h2>📅 3D Contribution Calendar</h2>
+  <h2>📅 Contribution Activity</h2>
   <br>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenujiDes&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=6A5ACD&point=FFFFFF" width="100%"/>
 </div>
 
 <br>
