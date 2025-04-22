@@ -1,104 +1,92 @@
-# <div align="center">✨ Senuji De Silva ✨</div>
+<h1 align="center">✨ Senuji De Silva ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Web+Developer+%26+Designer;AI+and+ML+Enthusiast;Public+Speaker" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Software%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BEng%20(Hons)%20Student%20|%20Web%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descAlign=50)
-
-  <p>
-    <a href="https://linkedin.com/in/senujidesilva"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://instagram.com/senujy.h"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <img src="https://komarev.com/ghpvc/?username=senujides&style=for-the-badge&color=blueviolet" alt="profile views" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=senujides&label=Profile%20views&color=6A5ACD&style=for-the-badge" alt="senujides" />
 </div>
 
-## <div align="center">💫 About Me</div>
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY3bjhvenk2ZDBoN3VmZnl3NDBuNWcyZjZhcDU5dzlzMmh4Z280ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+
+## 👩‍💻 About Me
+
+- 🎓 I'm pursuing a **BEng (Hons) in Software Engineering** at the University of Westminster
+- 💼 Working part-time as a **web designer, developer, and software engineer**
+- 🔭 Passionate about **AI, deep learning, and machine learning**
+- 🌐 I love crafting **responsive, user-friendly websites** that are visually appealing
+- 🎤 Dedicated member of **Toastmasters International**, serving as Vice President of Public Relations
+- 🌱 Always exploring new technologies and refining my skills
+
+<br>
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img align="right" width="38%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
-- 🎓 Currently pursuing **BEng (Hons) in Software Engineering** at the University of Westminster
-- 💻 Part-time Web Designer, Developer, and Software Engineer
-- 🤖 Passionate about AI, Deep Learning, and Machine Learning
-- 🌐 Expert in creating responsive, user-friendly websites and applications
-- 🎤 Dedicated member of Toastmasters International and former Vice President of Public Relations
-- 🚀 Always exploring new technologies and refining my skills
+<br>
 
-<br clear="both"/>
-
-## <div align="center">🛠️ Technologies & Tools</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-%2376B900.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SenujiDes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SenujiDes&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000" />
 </div>
 
-## <div align="center">📊 GitHub Stats</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenujiDes&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" />
+</div>
+
+<br>
 
 <div align="center">
-  <a href="https://github.com/SenujiDes">
-    <img src="https://github-profile-trophy.vercel.app/?username=SenujiDes&theme=nord&no-frame=true&no-bg=true&row=1" width="100%" alt="trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SenujiDes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</div>
+
+<br>
+
+## 🌈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenujiDes&bg_color=0D1117&color=5BCDEC&line=6A5ACD&point=FFFFFF&hide_border=true" />
+</div>
+
+<br>
+
+## 🔗 Connect with me
+
+<div align="center">
+  <a href="https://linkedin.com/in/senujidesilva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/senujy.h" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SenujiDes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SenujiDes&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenujiDes&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenujiDes&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
-## <div align="center">🔥 My Journey</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SenujiDes&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-
-```mermaid
-graph TD;
-    Education-->Software_Engineering;
-    Education-->AI_ML;
-    Education-->Web_Development;
-    Web_Development-->Frontend;
-    Web_Development-->Backend;
-    AI_ML-->Data_Analysis;
-    AI_ML-->Machine_Learning;
-    Public_Speaking-->Leadership;
-    Public_Speaking-->Communication;
-```
-
-</div>
-
-## <div align="center">✨ Let's Connect!</div>
-
-<div align="center">
-  <p>I'm always open to collaborating on exciting projects and exploring new opportunities. Feel free to reach out if you'd like to discuss ideas or just want to connect!</p>
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=footer&fontSize=42)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
