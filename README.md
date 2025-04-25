@@ -15,7 +15,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY3bjhvenk2ZDBoN3VmZnl3NDBuNWcyZjZhcDU5dzlzMmh4Z280ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 <br>
-## 👩‍💻 About Me
+ 👩‍💻 About Me
 
 - 🎓 I'm pursuing a **BEng (Hons) in Software Engineering** at the University of Westminster
 - 💼 Working part-time as a **web designer, developer, and software engineer**
